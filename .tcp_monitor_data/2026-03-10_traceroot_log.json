@@ -1,0 +1,17 @@
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 1, "ip": "10.239.128.1", "rtt": "175 ms 38 ms 65 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 2, "ip": "10.129.255.157", "rtt": "77 ms 62 ms 30 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 3, "ip": "10.129.254.241", "rtt": "48 ms 299 ms 33 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 4, "ip": "41.23.251.197", "rtt": "195 ms 55 ms 47 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 5, "ip": "10.118.24.61", "rtt": "* 149 ms *"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 6, "ip": "72.14.213.250", "rtt": "76 ms 364 ms 75 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 7, "ip": "142.251.53.107", "rtt": "86 ms 72 ms 175 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 8, "ip": "192.178.73.137", "rtt": "203 ms 18 ms 43 ms"}
+{"timestamp": "2026-03-10 08:59:55", "target": "8.8.8.8", "hop": 9, "ip": "8.8.8.8", "rtt": "50 ms 56 ms 78 ms"}
+{"timestamp": "2026-03-10 09:03:49", "target": "seimdcems001.scd.sasol.com", "hop": 1, "ip": "10.239.128.1", "rtt": "307 ms 128 ms 81 ms"}
+{"timestamp": "2026-03-10 09:03:49", "target": "seimdcems001.scd.sasol.com", "hop": 2, "ip": "10.129.255.157", "rtt": "254 ms 107 ms 156 ms"}
+{"timestamp": "2026-03-10 09:03:49", "target": "seimdcems001.scd.sasol.com", "hop": 3, "ip": "10.129.255.194", "rtt": "120 ms 114 ms 58 ms"}
+{"timestamp": "2026-03-10 09:03:49", "target": "seimdcems001.scd.sasol.com", "hop": 4, "ip": "155.237.94.163", "rtt": "48 ms 62 ms 291 ms"}
+{"timestamp": "2026-03-10 09:05:46", "target": "seimdcems001.scd.sasol.com", "hop": 1, "ip": "10.239.128.1", "rtt": "59 ms 121 ms 36 ms"}
+{"timestamp": "2026-03-10 09:05:46", "target": "seimdcems001.scd.sasol.com", "hop": 2, "ip": "10.129.255.157", "rtt": "110 ms 110 ms 363 ms"}
+{"timestamp": "2026-03-10 09:05:46", "target": "seimdcems001.scd.sasol.com", "hop": 3, "ip": "10.129.255.194", "rtt": "155 ms 221 ms 63 ms"}
+{"timestamp": "2026-03-10 09:05:46", "target": "seimdcems001.scd.sasol.com", "hop": 4, "ip": "155.237.94.163", "rtt": "180 ms 263 ms 89 ms"}
